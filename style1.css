@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+     width: 1340px; 
+    height: 40px;
+    border-radius: 33px;
+    background-color: #12202f; 
+   
+}
+.box{
+    display: flex;
+   background-color: #ebe3cd;
+     height: 200vh;
+     overflow: hidden;
+     margin: 0 auto;
+     padding-top: 40px;
+    
+}
+
+    .logo{
+        
+            margin-top: 4px; 
+            color: white;
+           margin-left: 35px;
+            font-weight: 300px;
+           font-family: "Playfair Display";
+    }
+.list{
+     display: block;
+        margin-top: 6px;
+    }
+    .list a{
+        display: flex;
+        position: relative;
+        text-decoration: none;
+        color: white;
+        font-family: "Montserrat";
+       margin-left: 200px;
+       /* margin-left: 250px; */
+     
+    
+    
+    }
+.main1{
+    position: relative;
+
+}
+.imgmain{
+     margin-left: 1350px;
+    margin-top: 250px;
+    position: absolute; 
+    
+}
+.imgsub{
+    margin-left: 850px;
+    margin-top: 250px;
+    position: absolute;
+}
+.imgsub1{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 550px ;
+   
+}
+.img-0{
+     margin-left: 550px;
+    margin-top: 340px; 
+}
